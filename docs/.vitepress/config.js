@@ -4,7 +4,7 @@ export default {
     base: '/my-karate-blog/',
     themeConfig: {
         siteTitle: "My Karate Rabit Hole",
-        logo: '/logo.png',
+        logo: 'https://raw.githubusercontent.com/mich-am/my-karate-blog/main/docs/logo.png',
 
         nav: [
           { text: 'Home', link: '/index'}
