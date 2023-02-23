@@ -24,10 +24,10 @@ export default defineConfig({
           },
 
           {
-            text: 'section 2',
+            text: 'Karate',
             collapsed: true,
             items:[
-                {text: 'page one', link: '/page2' },
+                {text: 'karate', link: '/karate' },
                 {text: 'page two'}
             ]
            }
