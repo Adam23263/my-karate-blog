@@ -21,7 +21,7 @@ export default {
           },
 
           {
-            text: 'text',
+            text: 'section 2',
             collapsed: true,
             items:[
                 {text: 'page two', link: '/page2' }
