@@ -7,7 +7,7 @@ hero:
   text: to the rabit hole 👋
   tagline: Just a simple blog where I share my thoughts...
   image:
-    src: /logo.png
+    src: https://raw.githubusercontent.com/mich-am/my-karate-blog/main/docs/logo.png
     alt: img
 
   actions:
