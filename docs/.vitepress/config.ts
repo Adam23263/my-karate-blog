@@ -8,7 +8,7 @@ export default defineConfig({
     
     themeConfig: {
         siteTitle: "My Karate Rabbit Hole",
-        logo: 'https://raw.githubusercontent.com/mich-am/my-karate-blog/main/docs/logo.png',
+        logo: 'https://raw.githubusercontent.com/mich-am/my-karate-blog/main/docs/images/logo.png',
         nav: [
           { text: 'Home', link: '/index'}
         ],
@@ -27,8 +27,8 @@ export default defineConfig({
             text: 'Karate',
             collapsed: false,
             items:[
-                {text: 'karate', link: '/karate' },
-                //{text: 'page two'}
+                {text: 'What is it?', link: '/what-is-karate' },
+                {text: 'Where did it come from?', link: '/where-karate-from'}
             ]
            }
         ]
