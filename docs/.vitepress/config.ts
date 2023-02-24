@@ -2,12 +2,12 @@ import { defineConfig } from "vitepress"
 
 export default defineConfig({
 
-    title: 'My Karate Rabit Hole',
-    description : 'This is my simple blog webiste that im going to use just to document my karate knowlage',
+    title: 'My Karate Rabbit Hole',
+    description : 'This is my simple blog website that im going to use just to document my karate knowledge',
     base: '/my-karate-blog/',
     
     themeConfig: {
-        siteTitle: "My Karate Rabit Hole",
+        siteTitle: "My Karate Rabbit Hole",
         logo: 'https://raw.githubusercontent.com/mich-am/my-karate-blog/main/docs/logo.png',
         nav: [
           { text: 'Home', link: '/index'}
@@ -15,10 +15,10 @@ export default defineConfig({
 
         sidebar: [
           {
-            text: 'Intoduction',
+            text: 'Introduction',
             collapsed: false,
             items: [
-                {text: 'Amout me', link: '/aboutMe'},
+                {text: 'About me', link: '/aboutMe'},
                 {text: 'My idea', link: '/myIdea'}
             ]
           },
@@ -28,7 +28,7 @@ export default defineConfig({
             collapsed: true,
             items:[
                 {text: 'karate', link: '/karate' },
-                {text: 'page two'}
+                //{text: 'page two'}
             ]
            }
         ]

@@ -1,10 +1,9 @@
 ---
 layout : home
 
-# here is the default home page option usign brand colours
 hero:
   name: Welcome 
-  text: to the rabit hole 👋
+  text: to the rabbit hole 👋
   tagline: Just a simple blog where I share my thoughts...
   image:
     src: https://raw.githubusercontent.com/mich-am/my-karate-blog/main/docs/logo.png
@@ -12,7 +11,7 @@ hero:
 
   actions:
     - theme: brand
-      text: Down The Rabit Hole We Go ...
+      text: Down The Rabbit Hole We Go ...
       link: /aboutMe
 
 features:
