@@ -4,4 +4,7 @@
     --vp-c-brand-lighter: #7DB4FF;
     --vp-c-brand-dark: #004AB5;
     --vp-c-brand-darker: #002E71;
+
+    --vp-home-hero-name-color: transparent;
+    --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe, #41d1ff);
 }
