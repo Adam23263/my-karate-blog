@@ -25,7 +25,7 @@ export default defineConfig({
 
           {
             text: 'Karate',
-            collapsed: true,
+            collapsed: false,
             items:[
                 {text: 'karate', link: '/karate' },
                 //{text: 'page two'}
