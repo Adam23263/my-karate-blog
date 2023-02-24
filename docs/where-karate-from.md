@@ -1,4 +1,5 @@
 # Where did it come form?
+---
 
 &emsp; As we know Karate is a Japanese martial art, but there is a lot more to the history of Karate other than just coming from Japan. Japan consists of an archipelago of close to 7000 islands, and its current constitution only forming in 1947.
 
