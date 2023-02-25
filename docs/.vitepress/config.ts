@@ -28,7 +28,15 @@ export default defineConfig({
             collapsed: false,
             items:[
                 {text: 'What is it?', link: '/what-is-karate' },
-                {text: 'Where did it come from?', link: '/where-karate-from'}
+                {text: 'Where did it come from?', link: '/where-karate-from'},
+                {text: 'Lineage', link: '/lineage'},
+                {
+                  items:[
+                    {text: 'Naha-te', link: '/naha-te'},
+                    {text: 'Shuri-te', link: '/shuri-te'},
+                    {text: 'Tomari-te', link: '/tomari-te'}
+                  ]
+                }
             ]
            }
         ]
