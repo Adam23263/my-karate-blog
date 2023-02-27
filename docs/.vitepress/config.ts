@@ -25,7 +25,7 @@ export default defineConfig({
           },
 
           {
-            text: 'Karate',
+            text: 'History',
             link: '/what-is-karate',
             collapsed: false,
             items:[
