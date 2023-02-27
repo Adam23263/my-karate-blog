@@ -16,15 +16,17 @@ export default defineConfig({
         sidebar: [
           {
             text: 'Introduction',
+            link: '/about-me',
             collapsed: false,
             items: [
-                {text: 'About me', link: '/aboutMe'},
-                {text: 'My idea', link: '/myIdea'}
+                {text: 'About me', link: '/about-me'},
+                {text: 'My idea', link: '/my-idea'}
             ]
           },
 
           {
             text: 'Karate',
+            link: '/what-is-karate',
             collapsed: false,
             items:[
                 {text: 'What is it?', link: '/what-is-karate' },
@@ -38,7 +40,13 @@ export default defineConfig({
                   ]
                 }
             ]
-           }
+          },
+
+          {
+            items:[
+              {text: 'Feedback', link: '/feedback'}
+            ]
+          }
         ]
     }
 })
