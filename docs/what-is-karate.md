@@ -1,4 +1,4 @@
-# *Karate :martial_arts_uniform: 「空手」* 
+# Karate :martial_arts_uniform: 「空手」
 
 ## So what is it?
 > "karate is a lifetime study" - Kenwa Mabuni
