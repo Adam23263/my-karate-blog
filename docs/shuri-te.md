@@ -7,4 +7,4 @@
 
 &emsp; Looking at the students of Mastsumura we can see how after a few generations they went on to form modern styles, including Shotokan, Shito-ryu and Kobayashi Shorin-ryu.
 
-[![shuri-te masters](/images/shuri-te-tree.jpg)](https://www.wikiwand.com/en/Okinawan_martial_arts#/Shuri-te)
+[![shuri-te tree](/images/shuri-te-tree.jpg)](https://www.wikiwand.com/en/Okinawan_martial_arts#/Shuri-te)
