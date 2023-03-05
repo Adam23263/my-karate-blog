@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./app.6a2e2746.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"principles/forces.md","lastUpdated":null}'),s={name:"principles/forces.md"};function a(c,o,n,p,i,d){return r(),t("div")}const f=e(s,[["render",a]]);export{_ as __pageData,f as default};

@@ -5,7 +5,7 @@ export default defineConfig({
     title: 'My Karate Rabbit Hole',
     description : 'This is my simple blog website that im going to use just to document my karate knowledge',
     base: '/my-karate-blog/',
-    lastUpdated: 'true',
+    lastUpdated: true,
 
     themeConfig: {
         siteTitle: "My Karate Rabbit Hole",
@@ -17,34 +17,35 @@ export default defineConfig({
         sidebar: [
           {
             text: 'Introduction',
-            link: '/about-me',
+            link: '/introduction/about-me',
             collapsed: false,
             items: [
-                {text: 'About me', link: '/about-me'},
-                {text: 'My idea', link: '/my-idea'}
+                {text: 'About me', link: '/introduction/about-me'},
+                {text: 'My idea', link: '/introduction/my-idea'}
             ]
           },
 
           {
             text: 'History',
-            link: '/what-is-karate',
+            link: '/history/what-is-karate',
             collapsed: false,
             items:[
-                {text: 'What is it?', link: '/what-is-karate' },
-                {text: 'Where did it come from?', link: '/where-karate-from'},
+                {text: 'What is it?', link: '/history/what-is-karate' },
+                {text: 'Where did it come from?', link: '/history/where-karate-from'},
                 {
                   text : 'Lineage',
                   collapsed: true,
-                  link: '/lineage',
+                  link: '/history/lineage',
                   items:[
-                    {text: 'Naha-te', link: '/naha-te'},
-                    {text: 'Shuri-te', link: '/shuri-te'},
-                    {text: 'Tomari-te', link: '/tomari-te'},
-                    {text: 'Timeline', link: '/timeline'}
+                    {text: 'Naha-te', link: '/history/naha-te'},
+                    {text: 'Shuri-te', link: '/history/shuri-te'},
+                    {text: 'Tomari-te', link: '/history/tomari-te'},
+                    {text: 'Timeline', link: '/history/timeline'}
                   ]
                 }
             ]
           },
+
 
           {
             items:[

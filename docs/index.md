@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: Down The Rabbit Hole We Go ...
-      link: /about-me
+      link: /introduction/about-me
 
 features:
   - icon: 💦
