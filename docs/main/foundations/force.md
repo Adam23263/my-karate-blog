@@ -1,3 +1,4 @@
+```
 ---
 head:
   - - link
@@ -5,6 +6,13 @@ head:
       href: https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.5.1/katex.min.css
 ---
 
+
+    markdown: {
+      config: (md) => {
+        md.use(require("markdown-it-katex"));
+      },
+    },
+```
 
 # Impact force and momentum
 
