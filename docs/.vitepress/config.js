@@ -7,12 +7,13 @@ export default defineConfig({
     description : 'This is my simple blog website that im going to use just to document my karate knowledge',
     base: '/my-karate-blog/',
     lastUpdated: true,
-
+```
     markdown: {
       config: (md) => {
         md.use(require("markdown-it-katex"));
       },
     },
+```,
 
     themeConfig: {
         siteTitle: "My Karate Rabbit Hole",
