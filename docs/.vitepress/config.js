@@ -8,12 +8,6 @@ export default defineConfig({
     base: '/my-karate-blog/',
     lastUpdated: true,
 
-    markdown: {
-      config: (md) => {
-        md.use(require("markdown-it-katex"));
-      },
-    },
-
 
     themeConfig: {
         siteTitle: "My Karate Rabbit Hole",
