@@ -13,8 +13,9 @@
 
 &emsp; We can explore;
 
-- [Impact force and momentum]() **(coming soon)**
-- [Circles and the power of them]() **(coming soon)**
-- [Triangles and their importance]() **(coming soon)**
-- [Pressure]() **(coming soon)**
-- [How can we utilise this knowledge]() **(coming soon)**
+- [Impact force and momentum](/coming-soon) **(coming soon)**
+- [Circles and the power of them](/coming-soon) **(coming soon)**
+- [Triangles and their importance](/coming-soon) **(coming soon)**
+- [Pressure](/coming-soon) **(coming soon)**
+- [How can we utilise this knowledge](/coming-soon) **(coming soon)**
+
