@@ -8,6 +8,6 @@
 
 &emsp; Just like Nakaima family there was also another major family in Naha, the Kogusuku (Kojo) family, one of the descendent families of the original 'thirty six families' of chinese immigrants. The Kogusuku family passed there style of karate down six generations of descendants until coming to the world as Kojo-ryu, However there is ambiguity to the validity of the style being taught and its relation to the original family teachings.
 
-[![Naha-te Tree](/images/naha-te-tree.jpg)](https://www.wikiwand.com/en/Okinawan_martial_arts#/Naha-te)
+[![Naha-te Tree](/main/images/naha-te-tree.jpg)](https://www.wikiwand.com/en/Okinawan_martial_arts#/Naha-te)
 
-[![Kogusuku tree](/images/kogusuku-tree.jpg)](https://www.wikiwand.com/en/Okinawan_martial_arts#/Naha-te)
+[![Kogusuku tree](/main/images/kogusuku-tree.jpg)](https://www.wikiwand.com/en/Okinawan_martial_arts#/Naha-te)

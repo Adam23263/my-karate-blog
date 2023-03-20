@@ -8,6 +8,13 @@ export default defineConfig({
     base: '/my-karate-blog/',
     lastUpdated: true,
 
+    markdown: {
+      config: (md) => {
+        md.use(require("markdown-it-katex"));
+      },
+    },
+
+
     themeConfig: {
         siteTitle: "My Karate Rabbit Hole",
         logo: 'https://raw.githubusercontent.com/mich-am/my-karate-blog/main/docs/images/logo.png',
@@ -15,33 +22,35 @@ export default defineConfig({
           { text: 'Home', link: '/index'}
         ],
 
-        sidebar: [
+        sidebar: {
+
+          '/main/': [
           {
             text: 'Introduction',
-            link: '/introduction/about-me',
+            link: '/main/introduction/about-me',
             collapsed: false,
             items: [
-                {text: 'About me', link: '/introduction/about-me'},
-                {text: 'My idea', link: '/introduction/my-idea'}
+                {text: 'About me', link: '/main/introduction/about-me'},
+                {text: 'My idea', link: '/main/introduction/my-idea'}
             ]
           },
 
           {
             text: 'History',
-            link: '/history/what-is-karate',
+            link: '/main/history/what-is-karate',
             collapsed: false,
             items:[
-                {text: 'What is it?', link: '/history/what-is-karate' },
-                {text: 'Where did it come from?', link: '/history/where-karate-from'},
+                {text: 'What is it?', link: '/main/history/what-is-karate' },
+                {text: 'Where did it come from?', link: '/main/history/where-karate-from'},
                 {
                   text : 'Lineage',
                   collapsed: true,
-                  link: '/history/lineage',
+                  link: '/main/history/lineage',
                   items:[
-                    {text: 'Naha-te', link: '/history/naha-te'},
-                    {text: 'Shuri-te', link: '/history/shuri-te'},
-                    {text: 'Tomari-te', link: '/history/tomari-te'},
-                    {text: 'Timeline', link: '/history/timeline'}
+                    {text: 'Naha-te', link: '/main/history/naha-te'},
+                    {text: 'Shuri-te', link: '/main/history/shuri-te'},
+                    {text: 'Tomari-te', link: '/main/history/tomari-te'},
+                    {text: 'Timeline', link: '/main/history/timeline'}
                   ]
                 }
             ]
@@ -54,9 +63,9 @@ export default defineConfig({
               {
                 text: 'Physics Of Karate', 
                 //collapsed: true,
-                link: '/foundations/physics'
+                link: '/main/foundations/physics'
                 //items: [
-                //  {text: 'Force and momentum', link: '/foundations/force'}
+                //  {text: 'Force and momentum', link: '/main/foundations/force'}
                 //]
                 
               }
@@ -68,17 +77,18 @@ export default defineConfig({
             text: 'Principles',
             collapsed: false,
             items:[
-              {text: 'Bushido', link: '/principles/bushido'},
-              {text: 'Niju Kun', link: '/principles/nijukun'}
+              {text: 'Bushido', link: '/main/principles/bushido'},
+              {text: 'Niju Kun', link: '/main/principles/nijukun'}
             ]
 
           },
 
           {
             items:[
-              {text: 'Feedback', link: '/feedback'}
+              {text: 'Feedback', link: '/main/feedback'}
             ]
           }
         ]
+        }
     }
 })

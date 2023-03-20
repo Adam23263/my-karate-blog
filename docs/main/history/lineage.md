@@ -8,4 +8,4 @@
 
 &emsp; If we start at Tōde and follow its notable masters and their students we can see how the modern style came to be.
 
-![tode tree](/images/tode-tree.png)
+![tode tree](/main/images/tode-tree.png)

@@ -2,7 +2,7 @@
 ---
 <center>
 
- !["Niju Kun"](/images/Nijukun.gif)
+ !["Niju Kun"](/main/images/Nijukun.gif)
 
 </center>
 

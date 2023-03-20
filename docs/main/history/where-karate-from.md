@@ -14,7 +14,7 @@ So where did it actually come from? The best way to discover this is to follow i
 &emsp; So on the world theatre its considerably new, however prior to spreading out to the world form Japan it had to first come to Japan and this was done by *the father of modern karate* Gichin Funakoshi the founder of Shotokan karate.
 
 ## Coming to Japan - The Father Of Modern Karate
-![Gichin-Funakoshi](/images/Gichin-Funakoshi.gif)
+![Gichin-Funakoshi](/main/images/Gichin-Funakoshi.gif)
 
 &emsp; Gichin Funakoshi「船越義珍」is a major name in karate, he was notably famous for being responsible for bringing karate to Japan and founding Shotokan karate. Funakoshi moved to the Japanese mainland in 1922 where he coined the name *empty hand* or karate for the martial art in order to downplay any connection to China. It was Funakoshi that introduced karate into the school system and brought it to the attention of the public.
 

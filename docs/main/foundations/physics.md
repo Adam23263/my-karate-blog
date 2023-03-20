@@ -3,7 +3,7 @@
 ---
 <center>
 
- !["physics physics physics"](/images/david-tennant-doctor-who.gif)
+ !["physics physics physics"](/main/images/david-tennant-doctor-who.gif)
 
 </center>
 

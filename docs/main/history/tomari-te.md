@@ -7,5 +7,5 @@
 
 &emsp; Matsumora went on to pass his teachings onto a few noted names including Choki Motobu and Chotoku Kyan the teachers of Nagmine the founder of Shorin-ryu, Motobu was also the teacher of Hironori Otsuka the founder of Wado-ryu.
 
-[![Tomari-te tree](/images/tomari-te-tree.jpg)](https://www.wikiwand.com/en/Okinawan_martial_arts#/Tomari-te)
+[![Tomari-te tree](/main/images/tomari-te-tree.jpg)](https://www.wikiwand.com/en/Okinawan_martial_arts#/Tomari-te)
 
