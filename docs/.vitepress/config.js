@@ -8,7 +8,6 @@ export default defineConfig({
     base: '/my-karate-blog/',
     lastUpdated: true,
 
-
     themeConfig: {
         siteTitle: "My Karate Rabbit Hole",
         logo: 'https://raw.githubusercontent.com/mich-am/my-karate-blog/main/docs/images/logo.png',
