@@ -6,7 +6,7 @@ hero:
   text: to the rabbit hole 👋
   tagline: Just a simple blog where I share my thoughts...
   image:
-    src: https://raw.githubusercontent.com/mich-am/my-karate-blog/main/docs/images/logo.png
+    src: https://raw.githubusercontent.com/mich-am/my-karate-blog/main/docs/main/images/logo.png
     alt: img
 
   actions:
