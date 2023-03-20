@@ -10,7 +10,7 @@ export default defineConfig({
 
     themeConfig: {
         siteTitle: "My Karate Rabbit Hole",
-        logo: 'https://raw.githubusercontent.com/mich-am/my-karate-blog/main/docs/images/logo.png',
+        logo: 'https://raw.githubusercontent.com/mich-am/my-karate-blog/main/docs/main/images/logo.png',
         nav: [
           { text: 'Home', link: '/index'}
         ],
