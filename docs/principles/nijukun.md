@@ -10,20 +10,28 @@
 &emsp; The Niju Kun or The Shotokan Niju Kun are the twenty guiding principles laid down by Gichin Funakoshi and first published in his book *The Twenty Guiding Principles of Karate*. These principles are there for students to aspire too and live and practice them, as well as to teach them to others too pass down the knowledge. In the above image of the niju kun we can see the first character in all of them is '一、' this is hitotsu or firstly, this is used to show how no one principle should be held above ana other and all are equal in importance.
 
 ## 一、空手道は礼に始まり礼に終る事を忘るな<br>
-Hitotsu, karate-dō wa rei ni hajimari rei ni owaru koto o wasuruna<br>
-Karate-do begins and ends with bowing.<br>
+**Hitotsu, karate-dō wa rei ni hajimari rei ni owaru koto o wasuruna<br>**
+Don't forget Karate-do begins and ends with rei.<br>
+
+&emsp; Rei as we commonly know it just means bow however, in reality it means a lot more than just the simply act of bowing, it means to respect, to show gratitude not only towards others but towards ones self. 
+
+&emsp; *'Without rei there is disorder'* , combat sports without rei are not arts but solely violence, technique without rei is solely brute strength and as a human without value.
 
 ## 一、空手に先手なし<br>
-Hitotsu, karate ni sente nashi<br>
+**Hitotsu, karate ni sente nashi<br>**
 There is no first strike in karate.<br>
+
+&emsp; Karate is an art of defensive measures, it's sole purpose is to arm oneself with the ability to protect themselves, as such karate is not to be used in an offensive manor. A respectable karateka is not to instigate violence and not to attack unprovoked.
 
 ## 一、空手は義の補け<br>
 Hitotsu, karate wa, gi no tasuke<br>
 Karate stands on the side of justice.<br>
 
+&emsp; Justice is the fairness of that what is right. It is important for a karateka to comprehend that what is right or wrong to the be able to act on the side of fairness and act of just honesty and integrity. 
+
 ## 一、先づ自己を知れ而して他を知れ<br>
 Hitotsu, mazu jiko o shire, shikashite ta o shire<br>
-First know yourself, then know others.<br>
+First know thyself, then know others.<br>
 
 ## 一、技術より心術<br>
 Hitotsu, gijutsu yori shinjutsu<br>
