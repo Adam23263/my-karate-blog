@@ -81,6 +81,11 @@ export default defineConfig({
               {text: 'Feedback', link: '/main/feedback'}
             ]
           }
+        ],
+
+        '/priv/' : [
+          {text: 'main', link: '/priv/main'},
+          {text: 'skills and drills', link: '/priv/skills-drills'}
         ]
         }
     }
