@@ -1,4 +1,5 @@
-import { defineConfig } from "vitepress"
+import { defineConfig } from "vitepress";
+
 
 export default defineConfig({
 
@@ -6,6 +7,12 @@ export default defineConfig({
     description : 'This is my simple blog website that im going to use just to document my karate knowledge',
     base: '/my-karate-blog/',
     lastUpdated: true,
+
+    markdown: {
+      config: (md) => {
+        md.use(require("markdown-it-katex"));
+      },
+    },
 
     themeConfig: {
         siteTitle: "My Karate Rabbit Hole",
@@ -45,7 +52,33 @@ export default defineConfig({
                 }
             ]
           },
+          
+          {
+            text: 'Foundations',
+            collapsed: false,
+            items:[
+              {
+                text: 'Physics Of Karate', 
+                //collapsed: true,
+                link: '/foundations/physics'
+                //items: [
+                //  {text: 'Force and momentum', link: '/foundations/force'}
+                //]
+                
+              }
+            ]
 
+          },
+
+          {
+            text: 'Principles',
+            collapsed: false,
+            items:[
+              {text: 'Bushido', link: '/principles/bushido'},
+              {text: 'Niju Kun', link: '/principles/nijukun'}
+            ]
+
+          },
 
           {
             items:[
