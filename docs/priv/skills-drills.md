@@ -16,4 +16,6 @@ key points:<br>
 <br>
 
 **partner drill: <br>** 
-kazami tsuki followed by gyaku tsuki back foot close to check, push off moving off to the side of opponent, set stance then counter; zuki, keri ashi
+kazami tsuki followed by gyaku tsuki back foot close to check, push off moving off to the side of opponent, set stance then counter; zuki, keri, ashi waza.
+
+![foordrill 2](/priv/images/footdrill-2.png)
