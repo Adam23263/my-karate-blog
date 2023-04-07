@@ -48,7 +48,7 @@ export default defineConfig({
                 }
             ]
           },
-          
+          /*
           {
             text: 'Foundations',
             collapsed: false,
@@ -65,7 +65,7 @@ export default defineConfig({
             ]
 
           },
-
+          */
           {
             text: 'Principles',
             collapsed: false,

@@ -41,6 +41,10 @@ First know thyself, then know others.<br>
 **Hitotsu, gijutsu yori shinjutsu<br>**
 Mentality over technique.<br>
 
+&emsp; In a combative or defensive situation technique is very import, how ever this principle shows us how karate is more than just technique, karate is within the student. gijutsu yori shinjutsu tells us that before all else we need to have mental presence and be fully aware of everything. 
+
+&emsp; When a Karateka places mind over skill, only then will the skill reach it full potential. 
+
 ## 一、心は放たん事を要す<br>
 **Hitotsu, kokoro wa hanatan koto o yōsu<br>**
 The heart must be set free.<br>
