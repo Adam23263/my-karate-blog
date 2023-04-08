@@ -45,4 +45,4 @@ keypoints:<br>
 <br>
 
 **partner drill: <br>** 
-&emsp; From orthodox stance stay at range with joid hansds, take turns to to jodan mawashi geri or rear leg, the ura mawashi geri, chodan mawashi and finish with gedan ura mawashi (sweep)  
+&emsp; From orthodox stance stay at range with joined hands, take turns to jodan mawashi geri, then ura mawashi geri, chodan mawashi and finish with gedan ura mawashi (sweep)  
