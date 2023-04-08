@@ -41,3 +41,8 @@ keypoints:<br>
 - safely clear out from the attack ready to strike again <br>
 - add second attack to drill to train 1,2
 - **harder** have uke instigate with strike so tori has to avoid and counter.
+
+<br>
+
+**partner drill: <br>** 
+&emsp; From orthodox stance stay at range with joid hansds, take turns to to jodan mawashi geri or rear leg, the ura mawashi geri, chodan mawashi and finish with gedan ura mawashi (sweep)  
