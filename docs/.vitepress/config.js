@@ -70,10 +70,24 @@ export default defineConfig({
             text: 'Principles',
             collapsed: false,
             items:[
-              {text: 'Bushido', link: '/main/principles/bushido'},
+              //{text: 'Bushido', link: '/main/principles/bushido'},
               {text: 'Niju Kun', link: '/main/principles/nijukun'}
             ]
 
+          },
+          {
+            text: 'Side Quests',
+            collapsed: false,
+            items:[
+              {
+                text: 'Iaido',
+                collapsed: true,
+                link: '/main/sidequests/iaido',
+                items:[
+                  {text: 'styles', link: '/main/sidequests/iaido-styles'}
+                ]
+              }
+            ]
           },
 
           {
