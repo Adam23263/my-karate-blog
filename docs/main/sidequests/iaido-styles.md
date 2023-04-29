@@ -1,5 +1,5 @@
 # Styles
----git
+---
 <h4> &emsp; As like all martial arts there are many schools with many lineages, however there are 5 main schools, each of which have their own subsidiary schools. </h4>
 
 ## Muso Shinden Ryu
