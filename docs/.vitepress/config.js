@@ -84,7 +84,8 @@ export default defineConfig({
                 collapsed: true,
                 link: '/main/sidequests/iaido',
                 items:[
-                  {text: 'styles', link: '/main/sidequests/iaido-styles'}
+                  {text: 'styles', link: '/main/sidequests/iaido-styles'},
+                  {text: 'MJER', link: '/main/sidequests/mjer'}
                 ]
               }
             ]
