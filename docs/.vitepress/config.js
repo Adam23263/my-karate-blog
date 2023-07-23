@@ -20,7 +20,7 @@ export default defineConfig({
           '/main/': [
           {
             text: 'Introduction',
-            link: '/main/introduction/about-me',
+            //link: '/main/introduction/about-me',
             collapsed: false,
             items: [
                 {text: 'About me', link: '/main/introduction/about-me'},
@@ -30,7 +30,7 @@ export default defineConfig({
 
           {
             text: 'History',
-            link: '/main/history/what-is-karate',
+            //link: '/main/history/what-is-karate',
             collapsed: false,
             items:[
                 {text: 'What is it?', link: '/main/history/what-is-karate' },
