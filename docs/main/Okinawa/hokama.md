@@ -1,6 +1,4 @@
-# Okinawa Experience Drills
-
- ## Hokama Sensei
+# Hokama Sensei
 
  &emsp; Tetsuhiro Hokama Sensei, Hanshi 10th Dan and chairman of Kenshikai Goju-ryu. Hokama Sensei is a master of "pain areas" learnt from the bubishi "the karate bible" and focusing on rediscovering the roots of traditional karate.
 
@@ -18,8 +16,8 @@
 
  5) The next sequence of repeated moves has a few applications, the own shown was a take down/throw. It was initiated from a a mutual collar grip, then kicking the lead leg on the inwards sweep whilst appling a up down rotation with the arms using body weight throwing the person in the direction of the sweep, ie. following a circle movement.
 
- <video class="gdriveVideo" preload="auto" controls>
-    <source src="https://drive.google.com/uc?export=download&id=1Go_o9RATRHnz5Z1WlHMDgfchKy5UnLsN" type='video/mp4'>
- </video>
+ 6) Following on from the leg sweep we reach the the section with downwards cross strike, Hokama Sensei taught this as a escape from a belt grab. Two variant were shown to us, the first dropping your body weight with your arms crossed striking the "pain area" then grabbing the collar in a cross choke rotating them to the ground. The second sticking outwards attacking the same area the grasping the face when rotating to the ground.
 
- 6)  
+ 7) A simple yet affective use of the last moves in the kata was to defend against a high front kick. A simple catch of the leg stepping to the outside and with a push pull throw to the floor, simple yet effective.
+
+ 8) The final move in this kata with the very flowy hand moves has many ideas for it ranging from the obvious to the bonkers. The own shown at the dojo was a wrist lock form a hand grab with a complex way to describe so we just have the video. 

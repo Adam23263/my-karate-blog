@@ -76,6 +76,13 @@ export default defineConfig({
 
           },
           {
+            text: 'Okinawa Experience',
+            collapsed: false,
+            items:[
+              {text: 'Hokama Sensei', link: '/main/okinawa/hokama'}
+            ]
+          },
+          {
             text: 'Side Quests',
             collapsed: false,
             items:[
@@ -101,8 +108,7 @@ export default defineConfig({
         '/priv/' : [
           {text: 'main', link: '/priv/main'},
           {text: 'skills and drills', link: '/priv/skills-drills'},
-          {text: 'Iaido Techniques', link: '/priv/iaido-techniques'},
-          {text: 'Okinawa Experience', link: '/priv/seminar'}
+          {text: 'Iaido Techniques', link: '/priv/iaido-techniques'}
         ]
         }
     }
