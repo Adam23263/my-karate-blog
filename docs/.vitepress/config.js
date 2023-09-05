@@ -101,7 +101,8 @@ export default defineConfig({
         '/priv/' : [
           {text: 'main', link: '/priv/main'},
           {text: 'skills and drills', link: '/priv/skills-drills'},
-          {text: 'Iaido Techniques', link: '/priv/iaido-techniques'}
+          {text: 'Iaido Techniques', link: '/priv/iaido-techniques'},
+          {text: 'Okinawa Experience', link: '/priv/seminar'}
         ]
         }
     }
