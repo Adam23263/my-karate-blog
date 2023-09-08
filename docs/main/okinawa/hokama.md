@@ -33,3 +33,17 @@
  8) The final move in this kata with the very flowy hand moves has many ideas for it ranging from the obvious to the bonkers. The own shown at the dojo was a wrist lock form a hand grab with a complex way to describe so we just have the video. 
 
  <iframe src="https://drive.google.com/file/d/1B7Boid7WnsAgzcYCkkacWxvISlVk63OX/preview" width="640" height="300" allow="autoplay"></iframe>
+
+ ### Wrist Locks
+
+ &emsp; After finishing the kata bunkai we moved on to looking at some simple wrist locks and take downs.
+
+ 1) Nice to Meet you, as it was introduced starts from a normal handshake then with a change in grip to a "broshake" we collapsed the elbow retaining for control with our free hand whilst bringing our elbow to the jaw, then drawing the elbow into, down and through the chest in a crescent moon shape to brake the balance we twist out self in a full smooth circle throwing them to the ground, all whats retaining the pressure on the wrist.
+
+  <iframe src="https://drive.google.com/file/d/1MKB-JeeorccrRqsmIC91aNSHMrUBQPAM/preview" width="640" height="300" allow="autoplay"></iframe> 
+  <br>
+  <iframe src="https://drive.google.com/file/d/1foksyMU9p2VvWFmZ56KcDISSRdzbU_aK/preview" width="640" height="300" allow="autoplay"></iframe>
+
+ 2) Another simple version of Nice to Meet you is after taking the "broshake" position is to apply firm pressure back on to the thumb driving the person to the floor.  
+
+ <iframe src="https://drive.google.com/file/d/1Hi1UzWk8tGSdL8BnTgwRYAJ7tYzosa5x/preview" width="640" height="300" allow="autoplay"></iframe>
