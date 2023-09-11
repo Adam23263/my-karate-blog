@@ -6,8 +6,7 @@
 
 </center>
 
-
-&emsp; The Niju Kun or The Shotokan Niju Kun are the twenty guiding principles laid down by Gichin Funakoshi and first published in his book *The Twenty Guiding Principles of Karate*. These principles are there for students to aspire too and live and practice them, as well as to teach them to others too pass down the knowledge. In the above image of the niju kun we can see the first character in all of them is '一、' this is hitotsu or firstly, this is used to show how no one principle should be held above another and all are equal in importance.
+&emsp; The Niju Kun or The Shotokan Niju Kun are the twenty guiding principles laid down by Gichin Funakoshi and first published in his book *The Twenty Guiding Principles of Karate*. These principles are there for students to aspire to, live and practice them, and teach them to others to pass down the knowledge. In the above image of the niju kun we can see the first character in all of them is '一、' this is hitotsu or firstly, this is used to show how no one principle should be held above another, and all are equal in importance. 
 
 ## 一、空手道は礼に始まり礼に終る事を忘るな<br>
 **Hitotsu, karate-dō wa rei ni hajimari rei ni owaru koto o wasuruna<br>**
