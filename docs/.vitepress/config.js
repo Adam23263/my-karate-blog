@@ -20,7 +20,6 @@ export default defineConfig({
           '/main/': [
           {
             text: 'Introduction',
-            //link: '/main/introduction/about-me',
             collapsed: false,
             items: [
                 {text: 'About me', link: '/main/introduction/about-me'},
@@ -30,7 +29,6 @@ export default defineConfig({
 
           {
             text: 'History',
-            //link: '/main/history/what-is-karate',
             collapsed: false,
             items:[
                 {text: 'What is it?', link: '/main/history/what-is-karate' },
@@ -48,29 +46,11 @@ export default defineConfig({
                 }
             ]
           },
-          /*
-          {
-            text: 'Foundations',
-            collapsed: false,
-            items:[
-              {
-                text: 'Physics Of Karate', 
-                //collapsed: true,
-                link: '/main/foundations/physics'
-                //items: [
-                //  {text: 'Force and momentum', link: '/main/foundations/force'}
-                //]
-                
-              }
-            ]
-
-          },
-          */
+          
           {
             text: 'Principles',
             collapsed: false,
             items:[
-              //{text: 'Bushido', link: '/main/principles/bushido'},
               {text: 'Niju Kun', link: '/main/principles/nijukun'}
             ]
 
@@ -84,7 +64,7 @@ export default defineConfig({
           },
           {
             text: 'Side Quests',
-            collapsed: false,
+            collapsed: true,
             items:[
               {
                 text: 'Iaido',
