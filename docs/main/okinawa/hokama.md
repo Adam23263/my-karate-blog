@@ -16,7 +16,7 @@
 
  5) The next sequence of repeated moves has a few applications, the own shown was a take down/throw. It was initiated from a a mutual collar grip, then kicking the lead leg on the inwards sweep whilst appling a up down rotation with the arms using body weight throwing the person in the direction of the sweep, ie. following a circle movement.
 
- <iframe src="https://drive.google.com/file/d/1Go_o9RATRHnz5Z1WlHMDgfchKy5UnLsN/preview" width="640" hight="300" allow="autoplay" allowfullscreen></iframe>
+ <iframe src="https://drive.google.com/file/d/1Go_o9RATRHnz5Z1WlHMDgfchKy5UnLsN/preview" width="40" hight="300" allow="autoplay" allowfullscreen></iframe>
 
 
  6) Following on from the leg sweep we reach the the section with downwards cross strike, Hokama Sensei taught this as a escape from a belt grab. Two variant were shown to us, the first dropping your body weight with your arms crossed striking the "pain area" then grabbing the collar in a cross choke rotating them to the ground. The second sticking outwards attacking the same area the grasping the face when rotating to the ground.
