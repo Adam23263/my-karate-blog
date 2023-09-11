@@ -47,3 +47,13 @@
  2) Another simple version of Nice to Meet you is after taking the "broshake" position is to apply firm pressure back on to the thumb driving the person to the floor.  
 
  <iframe src="https://drive.google.com/file/d/1Hi1UzWk8tGSdL8BnTgwRYAJ7tYzosa5x/preview" width="640" height="300" allow="autoplay" allowfullscreen></iframe>
+
+ 3) We also covered an option of what do to when faced with a basic shoving attack. The response was to take a chance and grasp the hand when coming in, taking the pinky finger and guiding the person to the floor.
+
+ <iframe src="https://drive.google.com/file/d/1rRFWk0fcFVTJYic9drC1A0Rk9GIWpIJ5/preview" width="640" height="480" allow="autoplay"></iframe>
+
+ 4) The final technique we covered was an escape from having both your wrists held. What we did was utilise the hard soft body mechanics and circular movements to rotate and smash their wrist joints and take control over a single hand with opposite hand, appling rotational pressure to the wrist and collapsing in towards the person aiming to attack the eyes.
+
+ <iframe src="https://drive.google.com/file/d/1khFIrWaW5uIZDv7vWswoCgPfVOewarR0/preview" width="640" height="480" allow="autoplay"></iframe>
+ <br>
+ <iframe src="https://drive.google.com/file/d/1-Q4T0lRlT0j2wJhC-Td3eZAPPXjn3t_h/preview" width="640" height="480" allow="autoplay"></iframe>
