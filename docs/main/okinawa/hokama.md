@@ -16,7 +16,7 @@
 
  5) The next sequence of repeated moves has a few applications, the own shown was a take down/throw. It was initiated from a a mutual collar grip, then kicking the lead leg on the inwards sweep whilst appling a up down rotation with the arms using body weight throwing the person in the direction of the sweep, ie. following a circle movement.
 
- <iframe src="https://drive.google.com/file/d/1Go_o9RATRHnz5Z1WlHMDgfchKy5UnLsN/preview" width="40" hight="300" allow="autoplay" allowfullscreen></iframe>
+ <iframe src="https://drive.google.com/file/d/1Go_o9RATRHnz5Z1WlHMDgfchKy5UnLsN/preview" width="640" hight="300" allow="autoplay" allowfullscreen></iframe>
 
 
  6) Following on from the leg sweep we reach the the section with downwards cross strike, Hokama Sensei taught this as a escape from a belt grab. Two variant were shown to us, the first dropping your body weight with your arms crossed striking the "pain area" then grabbing the collar in a cross choke rotating them to the ground. The second sticking outwards attacking the same area the grasping the face when rotating to the ground.
@@ -50,10 +50,10 @@
 
  3) We also covered an option of what do to when faced with a basic shoving attack. The response was to take a chance and grasp the hand when coming in, taking the pinky finger and guiding the person to the floor.
 
- <iframe src="https://drive.google.com/file/d/1rRFWk0fcFVTJYic9drC1A0Rk9GIWpIJ5/preview" width="640" height="480" allow="autoplay"></iframe>
+ <iframe src="https://drive.google.com/file/d/1rRFWk0fcFVTJYic9drC1A0Rk9GIWpIJ5/preview" width="640" height="300" allow="autoplay" allowfullscreen></iframe>
 
  4) The final technique we covered was an escape from having both your wrists held. What we did was utilise the hard soft body mechanics and circular movements to rotate and smash their wrist joints and take control over a single hand with opposite hand, appling rotational pressure to the wrist and collapsing in towards the person aiming to attack the eyes.
 
- <iframe src="https://drive.google.com/file/d/1khFIrWaW5uIZDv7vWswoCgPfVOewarR0/preview" width="640" height="480" allow="autoplay"></iframe>
+ <iframe src="https://drive.google.com/file/d/1khFIrWaW5uIZDv7vWswoCgPfVOewarR0/preview" width="640" height="300" allow="autoplay" allowfullscreen></iframe>
  <br>
- <iframe src="https://drive.google.com/file/d/1-Q4T0lRlT0j2wJhC-Td3eZAPPXjn3t_h/preview" width="640" height="480" allow="autoplay"></iframe>
+ <iframe src="https://drive.google.com/file/d/1-Q4T0lRlT0j2wJhC-Td3eZAPPXjn3t_h/preview" width="640" height="300" allow="autoplay" allowfullscreen></iframe>
