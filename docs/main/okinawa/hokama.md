@@ -1,4 +1,5 @@
 # Hokama Sensei 
+---
 !["Hokama Sensei"](/main/images/hokama.jpg)
 
 &emsp; Tetsuhiro Hokama Sensei, Hanshi 10th Dan and chairman of Kenshikai Goju-ryu. Hokama Sensei is a master of "pain areas" learnt from the bubishi "the karate bible" and focusing on rediscovering the roots of traditional karate. 
@@ -25,7 +26,7 @@
 
 <div class="box"> 
    <iframe class="responsive-iframe" src="https://drive.google.com/file/d/1gS8dItaolehLh9P5gUp0DSzc-CqR8zWw/preview" width="640" height="300" allow="autoplay" allowfullscreen></iframe> 
-<div>
+</div>
 <br> 
 <div class="box"> 
    <iframe class="responsive-iframe" src="https://drive.google.com/file/d/1N2052bMysMe8084A0ojbrlUosTLFNhcR/preview" width="640" height="300" allow="autoplay" allowfullscreen></iframe> 
