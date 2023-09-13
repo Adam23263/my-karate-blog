@@ -10,26 +10,26 @@
 
 1) The opening sequence to this kata has many functional interpretations, the one we covered was focusing on applying speed and technique to a punch followed by an immediate block.
 <div class="box">
-   <iframe src="https://drive.google.com/file/d/1SrRI7JB_CnobFTKXlFTK0sSX-ypL0e1u/preview" width="640" height="300" allow="autoplay" allowfullscreen></iframe>
+   <iframe class="responsive-iframe" src="https://drive.google.com/file/d/1SrRI7JB_CnobFTKXlFTK0sSX-ypL0e1u/preview" width="640" height="300" allow="autoplay" allowfullscreen></iframe>
 </div>
 
 2) The next section was shown as an escape from wrist grab, using the gedan barai as a strike to the "pain area" on the wrist joint followed by a strike.  
 <div class="box">
-   <iframe src="https://drive.google.com/file/d/1jWNPQKR1sfqjXnJoE96ZvEIxvNEgeVAI/preview" width="640" height="300" allow="autoplay" allowfullscreen></iframe>
+   <iframe class="responsive-iframe" src="https://drive.google.com/file/d/1jWNPQKR1sfqjXnJoE96ZvEIxvNEgeVAI/preview" width="640" height="300" allow="autoplay" allowfullscreen></iframe>
 </div>
 
 3) After the gedan barai we looked at the following technique and used it as a take down. The scooping hand(right) was to seize the heel with the base of the hand low to the floor whilst dropping low to the ground with your knee, taking the left hand to their knee and driving it down to the grown as raising the heel up. Hokama special is the place your big toe into the thigh as pulling the little toe whilst saying "enjoy, enjoy" 
 <div class="box">
-   <iframe src="https://drive.google.com/file/d/1hkyAWo1HFJPgQ4yOENMFi8TDbQj9ezWe/preview" width="640" height="300" allow="autoplay" allowfullscreen></iframe>
+   <iframe class="responsive-iframe" src="https://drive.google.com/file/d/1hkyAWo1HFJPgQ4yOENMFi8TDbQj9ezWe/preview" width="640" height="300" allow="autoplay" allowfullscreen></iframe>
 </div>
 <br>
 <div class="box">
-   <iframe src="https://drive.google.com/file/d/1ueHKiMtmHUp6cKKNtjgAcrwASO-DX3wT/preview" width="640" height="300" allow="autoplay" allowfullscreen></iframe>
+   <iframe class="responsive-iframe" src="https://drive.google.com/file/d/1ueHKiMtmHUp6cKKNtjgAcrwASO-DX3wT/preview" width="640" height="300" allow="autoplay" allowfullscreen></iframe>
 </div>
 
 4) A jumping kick can be applied in many ways; however, nothing beats just flying at a mugger with a jumping kick.
 <div class="box">
-   <iframe src="https://drive.google.com/file/d/1ZdqOFgumwk3Hl5K3P5PZfAXRDQCukp3p/preview" width="640" height="300" allow="autoplay" allowfullscreen></iframe>
+   <iframe class="responsive-iframe"  src="https://drive.google.com/file/d/1ZdqOFgumwk3Hl5K3P5PZfAXRDQCukp3p/preview" width="640" height="300" allow="autoplay" allowfullscreen></iframe>
 </div>
 
 5) The next sequence of repeated moves has a few applications, the one shown was a takedown/throw. It was initiated from a mutual collar grip, then kicking the lead leg on the inwards sweep whilst applying an up down rotation with the arms using body weight throwing the person in the direction of the sweep, i.e., following a circle movement.
