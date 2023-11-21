@@ -62,6 +62,15 @@ export default defineConfig({
               {text: 'Hokama Sensei', link: '/main/okinawa/hokama'}
             ]
           },
+            text: 'Kobudo',
+            collapsed: false,
+            link: '/main/coming_soon'
+'''
+            items:[
+              {text: 'Bojutsu', link: '/main/kobudo/bojutsu'}
+            ]
+          },
+'''
           {
             text: 'Side Quests',
             collapsed: true,
