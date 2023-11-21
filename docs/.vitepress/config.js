@@ -64,7 +64,7 @@ export default defineConfig({
           },
             text: 'Kobudo',
             collapsed: false,
-            link: '/main/coming_soon',
+            link: '/main/coming-soon',
 /*
             items:[
               {text: 'Bojutsu', link: '/main/kobudo/bojutsu'}
