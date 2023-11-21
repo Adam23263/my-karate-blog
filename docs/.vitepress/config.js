@@ -62,6 +62,7 @@ export default defineConfig({
               {text: 'Hokama Sensei', link: '/main/okinawa/hokama'}
             ]
           },
+          {
             text: 'Kobudo',
             collapsed: false,
             link: '/main/coming-soon'
