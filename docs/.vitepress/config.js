@@ -65,12 +65,11 @@ export default defineConfig({
           {
             text: 'Kobudo',
             collapsed: false,
-            link: '/main/coming-soon'
-/*
+            link: '/main/coming-soon',
             items:[
-              {text: 'Bojutsu', link: '/main/kobudo/bojutsu'}
+              {text: 'Bojutsu', link: '/main/kobudo/bojutsu'},
+              {text: 'Saijutsu', link: '/main/kobudo/saijutsu'}
             ]
-*/
           },
           {
             text: 'Side Quests',
